@@ -2,7 +2,7 @@
 
 I'm Jony, an iOS software enginner & design-lover. Here are some facts about me.
 
-- 💼 I'm currently working at [@Bilibili](https://www.bilibili.com/), and a side project called [Time](https://itunes.apple.com/app/id1347998487)
+- 💼 I'm currently working at [@Bilibili](https://www.bilibili.com/)
 - 💬 Ask me about iOS development
 - 📫 How to reach me: [jony.chunfang@gmail.com](mailto://jony.chunfang@gmail.com)
 - 🌟 Pronouns: he/him
