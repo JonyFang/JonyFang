@@ -7,4 +7,4 @@ I'm Jony, an iOS software enginner & design-lover. Here are some facts about me.
 - 📫 How to reach me: [jony.chunfang@gmail.com](mailto://jony.chunfang@gmail.com)
 - 🌟 Pronouns: he/him
 
-<img align="center" src="https://github-stats-extended.vercel.app/api?username=jonyfang&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs,prs&include_all_commits=true&count_private=true" alt="JonyFang's github stats"/>
+[![Jony's github stats](https://github-stats-extended.vercel.app/api?username=jonyfang&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
